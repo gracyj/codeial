@@ -1,0 +1,6 @@
+/* setting up Static files Access */
+body {
+  margin: 0;
+  text-align: left; }
+  body #layout-main {
+    height: 100%; }
